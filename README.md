@@ -1,0 +1,2 @@
+# premium-still-pot-001-copper-pot-still-design-calcul
+Designing a copper pot still by guesswork costs thousands in failed batches. The Copper Pot Still Design Calculator eliminates the trial-and-error—giving you precise, production-ready specifications in minutes.  This Notion template transforms abstract distillation theory into actionable copper pot dimensions, thermal calculations, and material spe
